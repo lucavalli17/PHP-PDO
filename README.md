@@ -3,7 +3,7 @@
 ### Description
 This project could help you to make:
  - Connection page to database with PDO;
- - User Authentication with MySQL (if user is normal user --> user_area else if user is admin --> admin_area);
+ - User/Admin Authentication with MySQL (if user is normal user --> user_area else if user is admin --> admin_area);
  - User Registration;
  - Admin registration.
 
