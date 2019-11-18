@@ -1,5 +1,4 @@
-# Project Title
-PHP MINI PROJECT USING PDO EXTENSION
+# PHP MINI PROJECT USING PDO EXTENSION
 
 ### Description
 This project could help you to make:
